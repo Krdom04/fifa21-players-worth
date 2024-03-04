@@ -19,5 +19,7 @@
 
 ## How to use it <br />
 
+## Self-reflection <br />
+
 ## Enjoy 😘
 
