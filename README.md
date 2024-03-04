@@ -8,18 +8,11 @@
 
 ## Introduction <br />
 
-<details> 
-  <summary>SPOILER ALERT! </summary>
-   It basically doesn't
-</details>
-
-## Results <br />
-
 ## Why use it <br />
 
 ## How to use it <br />
 
 ## Self-reflection <br />
 
-## Enjoy 😘
+## Recommendation for future work <br />
 
