@@ -2,10 +2,6 @@
 
 ## Analysing Fifa 21 players' value using linear regression <br />
 ![Fifa 21 cover](https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/07/22/16/screen-shot-2020-07-22-at-16.06.57-0.png?width=1200)
-<p align="center">
-  <img width="400" height="400" src="https://media.tenor.com/nCfArwGenA0AAAAM/the-rock-raising-eyebrow.gif">
-</p>
-
 ## Introduction <br />
 Fifa is without a doubt one of the most popular games of all time. In Career Mode, you can create or manage a team of your wish, transfer and create a whole empire. The code uses linear regression to predict player's prices.
 ## Why use it <br />
